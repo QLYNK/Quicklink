@@ -44,7 +44,7 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: Quicklink # Replace with a single Buy Me a Coffee username
 thanks_dev: # Replace with a single thanks.dev username
-custom: ['https://www.youtube.com/channel/UCrh1Mx5CTTbbkgW5O6iS2Tw/', 'https://www.instagram.com/deepdey.official/', 'https://www.instagram.com/puja__deyy/', 'https://qlynk.vercel.app/'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://www.youtube.com/channel/UCrh1Mx5CTTbbkgW5O6iS2Tw/', 'https://www.instagram.com/deepdey.official/', 'https://www.instagram.com/puja__deyy/', 'https://deepdey.vercel.app/', 'https://qlynk.vercel.app/'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 # ===================================================================================
 #   © 2025 Deep Dey | All Rights Reserved.
